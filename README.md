@@ -1,7 +1,11 @@
 # My-Portfolio @**[Dintakurthi](https://nithin--portfolio.herokuapp.com)**
 Mainly focuses on the Student’s Portfolio, where he showcases his educational background, skills, and passion for the subject. with a wide range of details with front-end frameworks.
 
-# My-Portfolio
+# My-Portfolio-Preview
+![Preview 1](https://user-images.githubusercontent.com/89580735/198755413-8b61203a-4cc0-4d4a-820a-a62d74bf32d9.jpg)
+![Preview 2](https://user-images.githubusercontent.com/89580735/198755416-02552ab3-50a4-40c0-b4af-ae58694e8212.jpg)
+![Preview 3](https://user-images.githubusercontent.com/89580735/198755430-b65f2fe6-b642-44e8-a2cd-49d825b96845.jpg)
+![Preview 4](https://user-images.githubusercontent.com/89580735/198755433-50cfd062-b3fe-416b-ae40-9c3c6ddc8c16.jpg)
 
 ### Web Frameworks Used :
 - [HTML](url) 
